@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NETFLIX</title>
+   <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
+   <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.css">
+   <link rel="stylesheet" href="../stylesheet.css">
+  <style>
+   
+  </style>
+</head>
+<body>
+    <div class="section1">&sect;
+    <header>
+        <div>
+            <img src="public/images/NETFLIXLOGO.PNG">
+
+        </div>
+        <div class="head">
+            
+            <select ><span class="bi bi-globe"></span>
+                <option>ENGLISH</option>
+                <option>HINDI</option>
+            </select>
+             <button class="btn btn-danger">Sign In</button>
+        
+    </div>
+    </header>
+    <section>
+    <div class="text">
+        <span class="p1">Unlimited movies, TV shows and more. </span><br>
+        <span class="p2">Watch anywhere. Cancel anytime. </span><br>
+        <span class="p3"> Ready to watch? Enter your email to create or restart your membership.</span>
+    
+    <div class="input-group input-group-lg p-4">
+        <input type="email" placeholder="your email" class="form-control">
+        <button class="btn btn-danger">
+            Get Started <span class="bi bi-chevron-right"></span>
+        </button>
+    </div>
+    </div>
+</section>
+</div>
+
+<section class="section2">
+    
+        <div class="sec2" style="margin-top:100px; margin-left:70px;">
+            <span class="p1">Enjoy on your TV.</span><br>
+                <span class="p3">Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.</span> 
+        </div>
+        <div class="sec22" style="margin-top: 50px; margin-left:100px;">
+            <video src="public/videos/1.mp4" muted="" width="500px" height="300px" style="padding: 20px;" autoplay=""></video>
+        </div>
+   
+</section>
+
+<section class="section2">
+    <div style="margin-top: 50px; margin-left:100px;">
+        <video src="public/videos/2.mp4" muted="" width="500px" height="300px" style="padding: 20px;" autoplay=""></video>
+    </div>
+    <div style="margin-top:100px; margin-left:70px;">
+        <span class="p1">Download your shows to watch offline.</span><br>
+            <span class="p3">Save your favourites easily and always have something to watch.</span> 
+    </div>
+    
+
+</section>
+
+<section class="section2">
+    <div style="margin-top:100px; margin-left:70px;">
+        <span class="p1">Watch everywhere.
+            </span><br>
+            <span class="p3">Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.</span> 
+    </div>
+    <div style="margin-top: 50px; margin-left:100px;">
+        <video src="public/videos/3.mp4" muted="" width="500px" height="300px" style="padding: 20px;" autoplay=""></video>
+    </div>
+</section>
+
+<section class="section2">
+    <div style="margin-top: 50px; margin-left:100px;">
+        <img src="public/images/children.png" width="500px" height="300px" style="padding: 20px;">
+    </div>
+    <div style="margin-top:100px; margin-left:70px;margin-right:20px;">
+        <span class="p1">Create profiles for children.
+            </span><br>
+            <span class="p3">Send children on adventures with their favourite characters in a space made just for them—free with your membership.</span> 
+    </div>
+</section>
+
+    <section class="section3">
+        <div>
+
+        </div>
+             <div>
+            <span>
+                <h1 style="color: white;">Frequently Asked Questions</h1><br>
+            </span>
+            <div class="button1">
+                 <button class="btn btn=link" style="color: white; display: block; background-color: #949494;">What is Netflix?</button><br>
+                 <button class="btn btn=link" style="color: white; display: block; background-color: #949494;">How much does Netflix cost?</button><br>
+                 <button class="btn btn=link" style="color: white; display: block; background-color: #949494;">Where can I watch?</button><br>
+                 <button class="btn btn=link" style="color: white; display: block; background-color: #949494;">How do I cancel?</button><br>
+                 <button class="btn btn=link" style="color: white; display: block; background-color: #949494;">What can I watch on Netflix?</button><br>
+                 <button class="btn btn=link" style="color: white; display: block; background-color: #949494;">Is Netflix good for kids?</button><br>
+                 
+                </div>
+            </div>
+            <div>
+            </div>      
+            
+   
+    </section>
+    
+<footer>
+    <div>
+        <div>FAQ</div> 
+        <div>Help</div> 
+        <div>CentreAccount</div>
+        <div>Media Centre</div>     
+    </div>
+    <div>
+        <div>Investor Relations</div>
+        <div>Jobs</div>
+        <div>Ways to Watch</div>
+        <div>Terms of Use</div>
+    </div>
+    <div>
+        <div>Privacy</div>
+        <div>Cookie Preferences</div>
+        <div>Corporate Information</div>
+        <div>Contact Us</div>
+    </div>
+    <div>
+        <div>Speed Test</div>
+        <div>Legal Notices</div>
+        <div>Only on Netflix</div>
+        <h4>Questions? Call 000-800-919-1694</h4>
+    </div>
+</div>
+</footer>
+<style>
+
+
+</style>
+</body>
+</html>
